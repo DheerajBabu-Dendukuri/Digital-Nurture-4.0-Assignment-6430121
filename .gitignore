@@ -1,0 +1,4 @@
+#Ignoring all the files that are not needed in the repository
+# Compiled Java class files
+*.class
+
