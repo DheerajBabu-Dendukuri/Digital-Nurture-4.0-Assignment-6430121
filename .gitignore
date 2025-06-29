@@ -2,3 +2,8 @@
 # Compiled Java class files
 *.class
 
+*.xml
+!pom.xml
+
+.gitignore
+*.json
