@@ -7,3 +7,6 @@
 
 .gitignore
 *.json
+*.properties
+mvnw
+*.cmd
