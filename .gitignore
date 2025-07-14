@@ -5,6 +5,7 @@
 *.xml
 !pom.xml
 
+.gitattributes
 .gitignore
 *.json
 *.properties
