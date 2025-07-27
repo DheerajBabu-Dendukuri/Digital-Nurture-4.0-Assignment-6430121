@@ -51,6 +51,13 @@ The assignments are organized into weekly modules, each focusing on a key area o
   - Account and Loan Services
   - Eureka Discovery Server
 
+### Week 6: Frontend Development
+
+- **React.js Framework**
+  - Component-Based Architecture
+  - State Management and Props
+  - React Hooks and Lifecycle Methods
+
 ## About the Author
 
 - **Name**: Dendukuri Dheeraj Babu
