@@ -51,6 +51,32 @@ The assignments are organized into weekly modules, each focusing on a key area o
   - Account and Loan Services
   - Eureka Discovery Server
 
+### Week 6: Frontend Development
+
+- **React.js Framework**
+  - Component-Based Architecture
+  - State Management and Props
+  - React Hooks and Lifecycle Methods
+  - Routing with React Router
+
+### Week 7: Advanced React.js Concepts
+
+- **React.js Framework**
+  - React Components and Props
+  - State Management
+  - Event Handling in React
+  - Routing and Navigation
+  - Reusable Component Design
+
+### Week 8: Git & Version Control
+
+- **Git Version Control**
+  - Git Initialization and Configuration
+  - Branching and Merging
+  - Conflict Resolution
+  - Commit History and Logs
+  - Remote Repository Operations
+
 ## About the Author
 
 - **Name**: Dendukuri Dheeraj Babu
